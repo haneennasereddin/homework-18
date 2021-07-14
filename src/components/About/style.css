@@ -1,0 +1,59 @@
+
+.icons {
+    background-color: #ecd7c6;
+    border-color: white;
+    color: #9bab90;
+  }
+  
+  .icons:hover {
+    transform: scale(1.25);
+  }
+  
+  .projPix:hover {
+    transform: scale(1.1);
+  }
+  
+  .nav {
+    font-family:Century;
+    position: relative;
+    bottom: 100px;
+  }
+  
+  .aboutMeHeader {
+    font-size: 36pt;
+  }
+  
+  code {
+    color: #9b9b9b;
+  }
+  
+  .aboutMe,
+  .skills {
+    font-family: Century;
+    margin-top: 40px;
+  }
+  
+  .card:hover {
+    box-shadow: 5px 5px #0d1b2a;
+  }
+  
+  .btn {
+    border-radius: 50px;
+    margin: 0px 15px;
+  }
+  
+  @media (max-width: 414px) {
+    .aboutMeHeader {
+      font-size: 20pt;
+    }
+    .aboutMeCard {
+      margin: 10px;
+    }
+  }
+  
+  @media (max-width: 1024px) {
+    .aboutMeCard {
+      margin: 10px;
+    }
+  }
+  

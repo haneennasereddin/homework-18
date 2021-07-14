@@ -1,0 +1,39 @@
+button:hover,
+a:hover {
+  color: rgb(204, 202, 202);
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+#projPix {
+  width: 700px;
+  height: auto;
+  margin-top: 75px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 23px 3px rgb(0 0 0 / 20%);
+}
+
+#projPix:hover {
+  transform: scale(1.1);
+}
+
+.projTitle {
+  color: #9bab9b;
+}
+.projInfo {
+  font-family: Century;
+  margin-top: 75px;
+}
+
+.projBtns {
+  border-radius: 15px;
+  margin: 5px;
+  font-family: Century;
+  background-color: #9bab9b;
+  font-size: 16pt;
+  font-weight: bold;
+}
+
+.projLinks {
+  color: #9bab9b;
+}

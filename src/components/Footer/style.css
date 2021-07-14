@@ -1,0 +1,28 @@
+.nav-a {
+    color: white;
+    padding: 10px;
+  }
+  
+  .nav-a:hover {
+    font-weight: bold;
+    color: rgb(153, 134, 134);
+  }
+  
+  .btn {
+    border-radius: 50px;
+    margin: 0px 15px;
+  }
+  
+  .icons {
+    background-color: #e0e1dd;
+    border-color: white;
+    color: black;
+  }
+  
+  .icons:hover {
+    transform: scale(1.25);
+  }
+  
+  .navbar {
+    background-color: rgb(136, 132, 132);
+  }

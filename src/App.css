@@ -1,0 +1,82 @@
+body {
+    margin-bottom: 100px;
+    background-color: #ffffff;
+  }
+  
+  @media (max-width: 768px) {
+    .site-headerUL {
+      float: none;
+      position: absolute;
+      display: block;
+      top: 20px;
+    }
+    .nav-li {
+      padding: 5px;
+    }
+  
+  
+    .profilepic {
+      position: relative;
+      top: 15px;
+    }
+  
+    .inline {
+      padding-bottom: 15px;
+      margin-left: 27px;
+    }
+  
+    .skillsList {
+      position: relative;
+      left: 5px;
+    }
+  
+    .toolHeader {
+      font-size: 14pt;
+      font-weight: bold;
+    }
+    .toolCol {
+      margin-bottom: 20px;
+    }
+  
+    .latestProjCard {
+      margin-top: 20px;
+    }
+    .display-4 {
+      font-size: 2.5rem;
+    }
+    .btnFormatting {
+      display: flex;
+      justify-content: space-evenly;
+    }
+  }
+  
+  @media (max-width: 414px) {
+    .skillsList {
+      display: block;
+      width: 55%;
+      position: relative;
+      left: 55px;
+    }
+  
+    #wave {
+      display: none;
+    }
+  
+    .skillsItem {
+      width: 150px;
+      height: 150px;
+    }
+  
+    .toolHeader {
+      font-size: 14pt;
+      font-weight: bold;
+    }
+  }
+  
+  @media (max-width: 1024px) {
+    .toolHeader {
+      font-size: 14pt;
+      font-weight: bold;
+    }
+  }
+  

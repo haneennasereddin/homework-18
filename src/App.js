@@ -8,7 +8,7 @@ import Skills from "./components/Skills/Skills";
 import Tools from "./components/Tools/Tools";
 import Contact from "./components/Contact/Contact";
 import Recco from "./components/Recommendations/Reccomendations";
-import Applications from "./components/Applications/Applications";
+import Applications from "./components/Applictions/";
 
 function App() {
   return (
